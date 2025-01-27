@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+.env
+static/LEVANTAMENTO_COLUNAS_TABELAS_GERENCIAL.xlsx
